@@ -1,1 +1,2 @@
 Apple is a multinational technology company known for its consumer electronics like the iPhone, iPad, and Mac, as well as software and services like iOS, macOS, and the App Store
+Making changed from vs code
